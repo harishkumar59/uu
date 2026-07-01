@@ -1,5 +1,5 @@
 # Logistic Regression with Iris Dataset
-
+#pip install pandas numpy scikit-learn matplotlib statsmodels
 # Step 1: Import Necessary Libraries
 import numpy as np
 import pandas as pd

@@ -1,4 +1,5 @@
 # Train an SVM regressor on the California Housing Dataset
+#pip install pandas numpy matplotlib seaborn scikit-learn
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

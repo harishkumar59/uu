@@ -1,4 +1,5 @@
 # Implement Linear Regression (Diabetes Dataset)
+#pip install pandas numpy scikit-learn matplotlib statsmodels
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import datasets, linear_model

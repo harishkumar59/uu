@@ -1,4 +1,5 @@
 # Implement SVM classifier (Iris Dataset)
+#pip install numpy matplotlib scikit-learn
 
 import numpy as np
 import matplotlib.pyplot as plt
