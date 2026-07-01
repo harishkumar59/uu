@@ -1,3 +1,4 @@
+#Implement MLP for classification of handwritten digits (MNIST Dataset)
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf

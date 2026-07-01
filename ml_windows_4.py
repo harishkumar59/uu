@@ -1,4 +1,5 @@
-# Step 1: Import necessary libraries
+# Implement SVM classifier (Iris Dataset)
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import svm, datasets

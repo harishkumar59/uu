@@ -1,4 +1,4 @@
-# 1) IMPORT LIBRARIES
+# Train an SVM regressor on the California Housing Dataset
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

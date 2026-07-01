@@ -1,3 +1,4 @@
+#Classification of images of clothing using Tensorflow (Fashion MNIST dataset)
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
